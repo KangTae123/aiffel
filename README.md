@@ -1,2 +1,2 @@
-# first-repository
-add new contents
+# AIFFFEL-mini-project-repository
+
